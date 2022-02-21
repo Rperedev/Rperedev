@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Rperedev
+- 👀 I’m interested in Computers, Music
+- 🌱 I’m currently learning Front-End Development
+- 💞️ I’m looking to collaborate on Codecademy projects
+- 📫 How to reach me Rperedev@gmail.com
